@@ -7,4 +7,4 @@ functions = "./functions"
 # KV Binding
 [[kv_namespaces]]
 binding = "LOGIN_DATA"
-id = ""
+id = "c1df5a8b70bf4b3094c54b6819f17020"
